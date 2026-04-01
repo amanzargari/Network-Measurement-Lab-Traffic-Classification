@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# Local .gitignore file for Network-Measurement-Lab-Traffic-Classification project
+
+.Captured_Data/
